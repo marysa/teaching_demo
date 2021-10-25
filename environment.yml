@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - pip
   - xarray
+  - netcdf4
   - cartopy
   - scipy
   - matplotlib
